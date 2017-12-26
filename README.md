@@ -8,4 +8,15 @@
 dnf install -y shadowsocks-libev
 ```
 
+## firewall config
+```
+firewall-cmd  --add-port=9999/tcp --permanent
+```
+
+## ss config
+```
+```
+
+
+
 
