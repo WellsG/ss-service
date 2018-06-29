@@ -17,6 +17,11 @@ firewall-cmd  --add-port=9999/tcp --permanent
 ```
 ```
 
+## start service
+````
+[root@vultr ss-server-systemd]# systemctl start shadowsocks
+````
+
 
 
 
