@@ -1,9 +1,9 @@
-# ss-service
+# shadowsocks-service
 
-## ss repo
+## shadowsocks repo
 [repo](https://copr.fedorainfracloud.org/coprs/librehat/shadowsocks/)
 
-## install ss
+## install shadowsocks
 ```
 dnf install -y shadowsocks-libev
 ```
@@ -13,7 +13,7 @@ dnf install -y shadowsocks-libev
 firewall-cmd  --add-port=9999/tcp --permanent
 ```
 
-## ss config
+## shadowsocks config
 ```
 ```
 
